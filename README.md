@@ -18,7 +18,7 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/feed/?trk=public_profile_not-found-log-in-secondary-cta" target="blank">
+  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/thanujananjappa/" target="blank">
